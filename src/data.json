@@ -3,46 +3,46 @@
      "id": 1,
      "title":"moodSing", 
      "des": "moodSing takes the user's location and inputted mood to generate a random playlist",
-    "imageSrc":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
+    "image":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
     "url":"https://mrjcowman.github.io/moodSing",
     "gitHub": "https://github.com/mrjcowman/moodSing"
    
      },
      {
-        "id": 1,
-        "title":"moodSing", 
-        "des": "moodSing takes the user's location and inputted mood to generate a random playlist",
-       "imageSrc":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
-       "url":"https://mrjcowman.github.io/moodSing",
-       "gitHub": "https://github.com/mrjcowman/moodSing"
+        "id": 2,
+        "title":"Employee Directory", 
+        "des": "allows the user to input information about the Employees for easier access",
+       "image":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
+       "url":"https://react-ij-employee-directory.herokuapp.com/",
+       "gitHub": "https://github.com/ismahanj/employee-directory"
       
         },
         {
-            "id": 1,
-            "title":"moodSing", 
-            "des": "moodSing takes the user's location and inputted mood to generate a random playlist",
-           "imageSrc":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
-           "url":"https://mrjcowman.github.io/moodSing",
-           "gitHub": "https://github.com/mrjcowman/moodSing"
+            "id": 3,
+            "title":"Weather App", 
+            "des": "allows the user to input a city and view the forcast for the next week",
+           "image":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
+           "url":" https://ismahanj.github.io/weather-app/.",
+           "gitHub": "https://github.com/ismahanj/weather-app"
           
             },
          {
-        "id": 1,
-        "title":"moodSing", 
-        "des": "moodSing takes the user's location and inputted mood to generate a random playlist",
+        "id": 4,
+        "title":"Gerome the gnome", 
+        "des": "Allows the user input preferences and the outputs a random name to use for a character",
         "imageSrc":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
-        "url":"https://mrjcowman.github.io/moodSing",
-        "gitHub": "https://github.com/mrjcowman/moodSing"
+        "gitHub":"https://github.com/insideseanshead/gerome-the-gnome",
+        "url": "https://gerome-the-gnome.herokuapp.com/"
               
          },
     
          {
-            "id": 1,
-            "title":"moodSing", 
-            "des": "moodSing takes the user's location and inputted mood to generate a random playlist",
-           "imageSrc":"https://user-images.githubusercontent.com/70504409/96329004-bacbe800-0ffd-11eb-8560-3a06d37fa48e.png",
-           "url":"https://mrjcowman.github.io/moodSing",
-           "gitHub": "https://github.com/mrjcowman/moodSing"
+            "id": 5,
+            "title":"Password Generator", 
+            "des": "password generator</a> asks the user a series of questions and generates a random password matching the criteria given",
+           "imageSrc":"https://user-images.githubusercontent.com/70504409/96329069-4cd3f080-0ffe-11eb-8c2f-4130aa24c8ce.png",
+           "url":"https://ismahanj.github.io/passward-generator/",
+           "gitHub": "https://github.com/ismahanj/passward-generator"
           
             }
 ]

@@ -10,7 +10,8 @@ function NavTabs() {
       <h2>ISMAHAN JAMEA</h2>
     <ul className="nav nav-tabs">
       <li className="nav-item">
-        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+        <Link to="/Home" 
+        className={location.pathname === "/Home" ? "nav-link active" : "nav-link"}>
           Home
         </Link>
       </li>
@@ -28,6 +29,14 @@ function NavTabs() {
           className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}
         >
           Projects
+        </Link>
+      </li>
+      <li className="nav-item">
+        <Link
+          to="/Works"
+          className={location.pathname === "/Works" ? "nav-link active" : "nav-link"}
+        >
+          Works
         </Link>
       </li>
     </ul>
